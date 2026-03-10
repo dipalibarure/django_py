@@ -1,1 +1,1 @@
-# django_py
+student management Django project 
